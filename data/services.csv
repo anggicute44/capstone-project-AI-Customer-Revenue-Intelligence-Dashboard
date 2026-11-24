@@ -1,0 +1,51 @@
+service_id,service_name,category,price,duration_minutes,is_active
+SV001,Perawatan Tubuh — Quis 01,Perawatan Tubuh,154740,30,True
+SV002,Perawatan Rambut — Accusantium 02,Perawatan Rambut,96896,30,False
+SV003,Perawatan Rambut — Consectetur 03,Perawatan Rambut,257247,60,True
+SV004,Facial — Ex 04,Facial,256615,45,True
+SV005,Konsultasi — Doloremque 05,Konsultasi,161488,45,True
+SV006,Konsultasi — Nemo 06,Konsultasi,163429,45,True
+SV007,Pijat & Relaksasi — Placeat 07,Pijat & Relaksasi,165067,30,True
+SV008,Pijat & Relaksasi — Perspiciatis 08,Pijat & Relaksasi,93284,120,True
+SV009,Facial — Error 09,Facial,173468,30,True
+SV010,Perawatan Tubuh — Natus 10,Perawatan Tubuh,134340,120,False
+SV011,Facial — Assumenda 11,Facial,131293,90,True
+SV012,Perawatan Tubuh — Doloremque 12,Perawatan Tubuh,109124,30,True
+SV013,Perawatan Rambut — Modi 13,Perawatan Rambut,246319,30,True
+SV014,Perawatan Tubuh — A 14,Perawatan Tubuh,142752,30,True
+SV015,Konsultasi — Molestias 15,Konsultasi,76646,45,True
+SV016,Perawatan Rambut — Fuga 16,Perawatan Rambut,290677,45,True
+SV017,Perawatan Tubuh — Odit 17,Perawatan Tubuh,148385,120,False
+SV018,Perawatan Rambut — Illo 18,Perawatan Rambut,103289,120,False
+SV019,Perawatan Rambut — Nisi 19,Perawatan Rambut,89823,30,True
+SV020,Konsultasi — Voluptatem 20,Konsultasi,66364,120,False
+SV021,Perawatan Rambut — Quos 21,Perawatan Rambut,174704,45,False
+SV022,Perawatan Tubuh — Ut 22,Perawatan Tubuh,98071,120,True
+SV023,Pijat & Relaksasi — Placeat 23,Pijat & Relaksasi,115195,90,True
+SV024,Facial — Dolor 24,Facial,281660,45,False
+SV025,Pijat & Relaksasi — Eaque 25,Pijat & Relaksasi,183691,90,False
+SV026,Facial — Impedit 26,Facial,118304,120,True
+SV027,Pijat & Relaksasi — Esse 27,Pijat & Relaksasi,169643,60,True
+SV028,Konsultasi — Aspernatur 28,Konsultasi,88494,30,True
+SV029,Perawatan Rambut — Repellendus 29,Perawatan Rambut,177532,45,False
+SV030,Perawatan Rambut — Quis 30,Perawatan Rambut,180386,90,False
+SV031,Facial — Assumenda 31,Facial,174297,60,True
+SV032,Perawatan Rambut — Ipsam 32,Perawatan Rambut,226377,60,True
+SV033,Perawatan Rambut — Aspernatur 33,Perawatan Rambut,137458,45,True
+SV034,Perawatan Tubuh — Architecto 34,Perawatan Tubuh,162745,45,True
+SV035,Perawatan Rambut — Reprehenderit 35,Perawatan Rambut,237164,60,False
+SV036,Konsultasi — Perferendis 36,Konsultasi,57543,30,True
+SV037,Konsultasi — Provident 37,Konsultasi,94425,30,True
+SV038,Facial — Quia 38,Facial,246807,90,False
+SV039,Facial — Dolore 39,Facial,163042,30,True
+SV040,Facial — Aspernatur 40,Facial,276582,60,False
+SV041,Konsultasi — Quaerat 41,Konsultasi,94811,60,True
+SV042,Konsultasi — Beatae 42,Konsultasi,162856,120,False
+SV043,Facial — Ea 43,Facial,266141,60,True
+SV044,Facial — Atque 44,Facial,94397,30,True
+SV045,Konsultasi — Saepe 45,Konsultasi,116234,90,False
+SV046,Facial — Atque 46,Facial,159459,120,True
+SV047,Facial — Veniam 47,Facial,235538,30,True
+SV048,Perawatan Tubuh — Ex 48,Perawatan Tubuh,162637,90,False
+SV049,Perawatan Tubuh — Necessitatibus 49,Perawatan Tubuh,134098,30,True
+SV050,Konsultasi — Cumque 50,Konsultasi,176020,120,False
